@@ -4,6 +4,9 @@ In the realm of technology, I thrive on curiosity and an unyielding commitment t
 
 🚀 Tech Arsenal:
 💻 Proficient in a versatile tech stack, including HTML, CSS, JavaScript, VueJS, PHP, Laravel, and more.
+
 🌐 Actively contributing to open-source projects that foster collaboration and innovation.
+
 📚 A perpetual learner, I embrace the ever-evolving tech landscape with enthusiasm.
+
 Let's not just code; let's craft digital experiences that leave an impact! Feel free to explore my repositories, and don't hesitate to reach out for discussions, collaborations, or just a friendly tech chat. Together, let's build something extraordinary! 🌟
