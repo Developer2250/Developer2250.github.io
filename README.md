@@ -1,4 +1,4 @@
-👋 Hello there! I'm Kulkarni Monali, a passionate Web Developer dedicated to crafting seamless digital experiences. My expertise spans HTML, [Tailwind] CSS, JavaScript, VueJS, PHP, Laravel, Vuetify, NuxtJS, GraphQL, Firebase, Payment Gateway integrations, API integrations, Jquery, Codeigniter, Symfony, GraphQl, BigQuery, and Bootstrap.
+👋 Hello ..!! I'm Kulkarni Monali, a passionate Web Developer dedicated to crafting seamless digital experiences. My expertise spans HTML, [Tailwind] CSS, JavaScript, VueJS, PHP, Laravel, Vuetify, NuxtJS, GraphQL, Firebase, Payment Gateway integrations, API integrations, Jquery, Codeigniter, Symfony, GraphQl, BigQuery, and Bootstrap.
 
 In the realm of technology, I thrive on curiosity and an unyielding commitment to learning. My journey has been marked by translating intricate ideas into robust solutions, whether it's developing scalable applications, diving into data analysis, or experimenting with cutting-edge technologies.
 
