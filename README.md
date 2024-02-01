@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🚀<br><br>My name is Monali and I’m a passiona
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer2250&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Developer2250&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Developer2250&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Developer2250&icon=0&color=1)](https://visitcount.itsvg.in)
